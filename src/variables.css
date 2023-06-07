@@ -1,0 +1,19 @@
+:root {
+  /* background colors */
+  --clr-bg-100: white;
+  --clr-bg-200: hsl(0, 0%, 94%);
+
+  /* primary colors - accent */
+  --clr-accent-purple: hsl(259, 100%, 65%);
+  --clr-accent-red: hsl(0, 100%, 67%);
+
+  /* primary colors - accent */
+  --clr-neutral-100: hsl(0, 0%, 86%);
+  --clr-neutral-500: hsl(0, 1%, 44%);
+  --clr-neutral-900: hsl(0, 0%, 8%);
+
+  /* font weights */
+  --fw-400: 400;
+  --fw-700: 700;
+  --fw-800: 800;
+}

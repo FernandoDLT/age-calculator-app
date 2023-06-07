@@ -1,0 +1,11 @@
+.app {
+  background-color: var(--clr-bg-100);
+  border-radius: 20px;
+  border-bottom-right-radius: 100px;
+  padding-inline: 24px;
+  padding-block: 44px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 8px;
+}

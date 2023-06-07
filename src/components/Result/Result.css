@@ -1,0 +1,19 @@
+div.result > div > span {
+  font-weight: var(--fw-800);
+}
+
+div.result > div {
+  display: flex;
+  gap: 8px;
+}
+
+div.result {
+  display: flex;
+  flex-direction: column;
+  font-size: 54px;
+  font-style: italic;
+}
+
+span.result--number {
+  color: var(--clr-accent-purple);
+}
